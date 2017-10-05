@@ -1,6 +1,10 @@
 # Understanding-stock-data-by-Field-clustering-and-dimensionality
 Cluster the different companies listed in SP500 and find the dimensionality of each stock price, thus explaining its variation
 
+# Dependencies
+1. PySpark
+2. findspark
+
 # Data
 
 First, download data from this [link](https://drive.google.com/open?id=0B_Cz1ZeaITeDM196TnJnY24xMjA). Save it in the 
